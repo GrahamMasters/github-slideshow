@@ -1,0 +1,31 @@
+{
+ "sku": {
+  "name": "A0",
+  "tier": "Free"
+ },
+ "identity": {
+  "principalId": "ee418392-5dfb-4c54-8be2-3563b4094435",
+  "tenantId": "c47fd8c6-43a9-488d-9935-e9a464474795",
+  "type": "SystemAssigned"
+ },
+ "properties": {
+  "displayName": "RBS-Tagging-Initiative",
+  "policyDefinitionId": "/subscriptions/1a9678ae-a476-41b3-8233-20356159b4aa/providers/Microsoft.Authorization/policySetDefinitions/5a5f6deafdaa4f30a162a326",
+  "scope": "/subscriptions/1a9678ae-a476-41b3-8233-20356159b4aa",
+  "notScopes": [],
+  "parameters": {},
+  "metadata": {
+   "assignedBy": "Graham Masters",
+   "parameterScopes": {},
+   "createdBy": "103b1d04-9846-4741-bd5b-93efddfec87d",
+   "createdOn": "2022-12-08T23:45:24.1429779Z",
+   "updatedBy": null,
+   "updatedOn": null
+  },
+  "enforcementMode": "Default"
+ },
+ "id": "/subscriptions/1a9678ae-a476-41b3-8233-20356159b4aa/providers/Microsoft.Authorization/policyAssignments/479daaa3f19246a6859c23dc",
+ "type": "Microsoft.Authorization/policyAssignments",
+ "name": "479daaa3f19246a6859c23dc",
+ "location": "eastus"
+}
